@@ -4,6 +4,8 @@ A Clojure wrapper for [Pygments](http://pygments.org/) (syntax highlighter).
 
 Implemented using following [documentation and code sample](http://pygments.org/docs/java/).
 
+[![Build Status](https://travis-ci.org/hashobject/sitemap.png)](https://travis-ci.org/hashobject/pygmenter)
+
 ## Install
 
 ```shell
