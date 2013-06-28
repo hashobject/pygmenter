@@ -1,4 +1,4 @@
-(defproject pygmenter "0.1.0-SNAPSHOT"
+(defproject pygmenter "0.1.0"
   :description "A Clojure wrapper for Pygments (syntax highlighter)."
   :signing {:gpg-key "HashObject Ltd <team@hashobject.com>"}
   :url "https://github.com/hashobject/mangopay"
