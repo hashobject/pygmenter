@@ -2,10 +2,12 @@
 
 A Clojure wrapper for [Pygments](http://pygments.org/) (syntax highlighter).
 
+Implemented using following [documentation and code sample](http://pygments.org/docs/java/).
+
 ## Install
 
 ```shell
-[pygmenter "0.1.0"]
+[pygmenter "0.1.1"]
 ```
 
 ## Usage
