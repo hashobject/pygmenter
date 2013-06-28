@@ -21,8 +21,6 @@ user=> (pygmentize "(defn [] (println 'Hello world!'))")
 "<div class=\"highlight\"><pre><span class=\"p\">(</span><span class=\"n\">defn</span> <span class=\"p\">[]</span> <span class=\"p\">(</span><span class=\"n\">println</span> <span class=\"s\">&#39;Hello world!&#39;</span><span class=\"p\">))</span>\n</pre></div>\n"
 ```
 
-## Tips
-
 ## Contributions
 
 We love contributions. Please submit your pull requests.
