@@ -5,7 +5,7 @@ A Clojure wrapper for [Pygments](http://pygments.org/) (syntax highlighter).
 Implemented using following [documentation and code sample](http://pygments.org/docs/java/).
 
 [![Build Status](https://travis-ci.org/hashobject/sitemap.png)](https://travis-ci.org/hashobject/pygmenter)
-[![Dependencies Status](http://jarkeeper.com/hashobject/pygmenter/status.png)](http://jarkeeper.com/hashobject/pygmenter)
+[![Dependencies Status](https://jarkeeper.com/hashobject/pygmenter/status.svg)](https://jarkeeper.com/hashobject/pygmenter)
 
 ## Install
 
