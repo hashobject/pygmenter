@@ -6,6 +6,7 @@ Implemented using following [documentation and code sample](http://pygments.org/
 
 [![Build Status](https://travis-ci.org/hashobject/sitemap.svg)](https://travis-ci.org/hashobject/pygmenter)
 [![Dependencies Status](https://jarkeeper.com/hashobject/pygmenter/status.svg)](https://jarkeeper.com/hashobject/pygmenter)
+[![Downloads](https://jarkeeper.com/hashobject/pygmenter/downloads.svg)](https://jarkeeper.com/hashobject/pygmenter)
 
 ## Install
 
